@@ -87,6 +87,6 @@ db:
   port: 5432
   database: postgres
   username: postgres
-  password: 123456a
+  password: 1234asd
   schema: admin
 
